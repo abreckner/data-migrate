@@ -1,6 +1,11 @@
 Changelog
 =========
 
+## 3.1.0
+
+Rails 5.0 support thanks to
+[jturkel](https://github.com/jturkel) and [abreckner](https://github.com/abreckner)
+
 ## 3.0.1
 
 ([gacha](https://github.com/gacha)) Capistrano fixes
